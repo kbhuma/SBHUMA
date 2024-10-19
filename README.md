@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Bhuma</h1>
 <h3 align="center">I'm a driven software engineer with expertise in full-stack development, cloud technologies, and embedded systems. With hands-on experience in building scalable web applications and optimizing cloud infrastructure, I'm passionate about leveraging cutting-edge technologies to solve complex problems and enhance user experiences.</h3>
-<img align="right" alt="Coding" width="400" src="https://ibb.co/N1J34cp">
-
 
 - 🤔 Exploring **new technologies and developing software solutions and quick hacks.**
 
